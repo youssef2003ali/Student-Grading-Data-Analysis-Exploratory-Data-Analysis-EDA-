@@ -25,4 +25,4 @@ This project performs **Exploratory Data Analysis (EDA)** on a **student grading
 🔹 Some **departments** report higher stress levels, impacting performance.  
 🔹 **Parental education level** shows patterns in influencing student grades.  
 
-## 📂 Project Structure  
+
